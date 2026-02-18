@@ -75,7 +75,7 @@ h3 {
    HEADER & NAVIGATION
 --------------------------------------------------- */
 .page-header {
-  background-image: url("../images/header-bg.jpg");
+  background-image: url("../images/header-bg.jpg"); /* put your image in /images */
   background-size: cover;
   background-position: center;
   padding: 1rem;
